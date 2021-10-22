@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Operación aritmética - Suma","Sumar dos números","SUCCESS","2021-10-21T18:38:58.6817109-05:00[America/Bogota]","0.0","3.49"
+"Bandera del pais","Iniciales correctas del nombre del  pais","SUCCESS","2021-10-21T22:04:31.8819461-05:00[America/Bogota]","0.0","3.97"
+"Bandera del pais","Iniciales incorrectas del nombre del  pais","SUCCESS","2021-10-21T22:04:35.8573188-05:00[America/Bogota]","0.0","0.43"

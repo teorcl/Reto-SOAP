@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Bandera del pais" skipped="0" tests="2" time="4.4" timestamp="2021-10-21 10:04:31"><testcase name="Iniciales correctas del nombre del  pais"/><testcase name="Iniciales incorrectas del nombre del  pais"/></testsuite>
